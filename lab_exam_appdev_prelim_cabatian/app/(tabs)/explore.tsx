@@ -24,7 +24,7 @@ export default function TabTwoScreen() {
           style={{
             fontFamily: Fonts.rounded,
           }}>
-          ABANGAN AND SUSUNOD NA KABANATA
+          POGI MO SIR HARROLD
         </ThemedText>
       </ThemedView>
     </ParallaxScrollView>
